@@ -13,7 +13,7 @@
     "fs-extra": "^8.1.0",
     "gatsby-plugin-utils": "^0.9.0-next.0",
     "lodash.merge": "^4.6.2",
-    "rss": "git://github.com/evgenij9241/custom-rss.git#group"
+    "rss": "git://github.com/evgenij9241/custom-rss.git#master"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
